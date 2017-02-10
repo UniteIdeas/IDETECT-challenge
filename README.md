@@ -1,5 +1,5 @@
 # IDETECT-challenge
-Datasets for IDMC #IDETECT challenge on Unite Ideas
+Datasets for IDMC #IDETECT challenge on Unite Ideas. Find the challenge on unite.un.org/ideas
 
 ##Datasets
 
